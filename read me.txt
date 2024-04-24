@@ -1,0 +1,5 @@
+this is 'Left or Right' game's unity C# codes
+
+You can use anywhere of this code (CC0)
+
+포토폴리오 용으로 올려놓았음을 알려드립니다.
